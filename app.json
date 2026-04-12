@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "MyProductionApp",
-    "slug": "MyProductionApp",
+    "name": "RepoScope",
+    "slug": "RepoScope",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myproductionapp",
+    "scheme": "RepoScope",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "splash": {
@@ -34,6 +34,9 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra":{
+      "githubToken": ""
     }
   }
 }
