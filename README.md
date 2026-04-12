@@ -30,7 +30,7 @@ Step 3 — Copy the token
 
 Step 4 — Open app.json and paste it:
 
-```
+```json
 "extra": {
   "githubToken": "YOUR_TOKEN_HERE"
 }
