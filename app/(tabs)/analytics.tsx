@@ -98,7 +98,7 @@ export default function AnalyticsScreen() {
 
   return (
     <ScrollView style={styles.container} contentContainerStyle={styles.content}>
-      <Text style={styles.pageTitle}>Analytics</Text>
+      {/* <Text style={styles.pageTitle}>Analytics</Text> */}
       <Text style={styles.pageSubtitle}>
         {hasData
           ? `Based on ${filteredResults.length} repositories`
