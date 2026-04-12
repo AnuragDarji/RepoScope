@@ -9,7 +9,7 @@ analyze data with charts, and export filtered results.
 
 ### 1. Clone the repo
 
-git clone https://github.com/AnuragDarji/RepoScope.git
+git clone https://github.com/AnuragDarji/RepoScope.git <br/>
 cd RepoScope
 
 ### 2. Install dependencies
