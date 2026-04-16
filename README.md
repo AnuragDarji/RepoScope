@@ -59,7 +59,7 @@ npx expo start
 
 # Demo Screenshots
 
-<img width="480" height="896" alt="demo 1" src="https://github.com/user-attachments/assets/53485951-40c4-4ed2-94ab-245b806f7b26" />
+<img width="150" height="280" alt="demo 1" src="https://github.com/user-attachments/assets/53485951-40c4-4ed2-94ab-245b806f7b26" />
 <img width="1570" height="2932" alt="demo 2" src="https://github.com/user-attachments/assets/cd73c94c-d19a-4b94-909e-d2a3edf5552f" />
 <img width="1570" height="2932" alt="demo 3" src="https://github.com/user-attachments/assets/94f731c9-b7ae-4dbb-bb00-08888215e261" />
 
