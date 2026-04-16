@@ -57,7 +57,7 @@ npx expo start
 
 ---
 
-# Demo Screenshots
+## Demo Screenshots
 
 <table>
   <tr>
